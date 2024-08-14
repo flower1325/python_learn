@@ -1,0 +1,17 @@
+接口的定义：
+特殊的URL，也就是操作数据库
+要点：GET/POST有什么区别？RESTFUL风格的接口是什么？put delete
+POST请求  --参数 写在URL上，除了某些场景：put  --添加   delete --查询
+
+ 接口测试的四要素：
+ URL地址 --  运行当前这个程序的ip+端口号+url地址
+ 请求方式 -- GET POST PUT DELETE
+ 请求参数
+ 返回值
+ 请求头  application/json from text
+
+ request 代码库 ： 发送请求并有结果
+
+
+ Request代码库： --发送请求并有结果
+ 
